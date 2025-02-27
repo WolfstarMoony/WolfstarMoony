@@ -9,8 +9,6 @@
 
 ###
 
-![snake gif](https://github.com/WolfstarMoony/WolfstarMoony/blob/output/github-snake-dark.svg)
-
 ###
 
 <br clear="both">
