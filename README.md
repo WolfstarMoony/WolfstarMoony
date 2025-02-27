@@ -9,7 +9,7 @@
 
 ###
 
-! [gif de cobra](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/WolfstarMoony/WolfstarMoony/blob/output/github-snake-dark.svg)
 
 ###
 
