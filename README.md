@@ -9,14 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img height="188" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,6 +39,12 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/WolfstarMoony/WolfstarMoony/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img align="right" height="188" src="https://media.tenor.com/qdT1lygmdfkAAAAM/little-black-cat-cat.gif"  />
 
 ###
 
