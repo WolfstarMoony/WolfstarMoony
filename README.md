@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WolfstarMoony/WolfstarMoony/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/WolfstrMoony/WolfstarMoony/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
