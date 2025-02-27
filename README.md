@@ -9,8 +9,6 @@
 
 ###
 
-![snake animation](https://github.com/WolfstarMoony/WolfstarMoony/blob/output/github-contribution-grid-snake2.svg)
-
 ###
 
 <br clear="both">
